@@ -38,4 +38,4 @@
 Gilead Sciences and Health Verity for providing the dataset.
 WiDS Datathon organizers.
 NASA/Columbia University for enriching the dataset.
-![image](https://github.com/arassiq/arassiq-CancerDiagnosisPrediction-WiDS/assets/143036773/900e3aa8-957c-449e-897f-a77062628e95)
+
