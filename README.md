@@ -2,7 +2,7 @@
 
 ## Overview
 
-  This project, developed for the WiDS Datathon and sponsored by Gilead Sciences, focuses on predicting metastatic cancer diagnosis within 90 days of screening using a rich dataset. The aim is to identify factors influencing timely treatment for breast cancer patients and contribute to reducing healthcare disparities.
+  This project, developed for the WiDS Datathon and sponsored by Gilead Sciences, focuses on predicting metastatic cancer diagnosis within 90 days of screening using a rich dataset. The aim is to identify factors influencing timely treatment for breast cancer patients and contribute to reducing healthcare disparities by predicting whether a patient will be diagnosed with metastatic cancer within 90 days.
 
 ## Dataset
 
@@ -18,7 +18,7 @@
 #### Feature Engineering: New features were created to enhance model performance, including indicators of healthcare access and environmental exposure, based on existing data.
 
 ### Clustering with k-Prototypes
-  Given the mixed data types (numerical and categorical) in our dataset, k-Prototypes clustering was employed to identify distinct groups of patients. This method allowed us to explore underlying patterns related to demographics, diagnosis, and treatment options, highlighting factors that may influence the likelihood of receiving a timely metastatic cancer diagnosis.
+  Given the mixed data types (numerical and categorical) in our dataset, k-Prototypes clustering was employed to identify distinct groups of patients. This method allowed us to explore underlying patterns related to demographics, diagnosis, and treatment options, highlighting factors that may influence the likelihood of receiving a timely metastatic cancer diagnosis and aiding in making diagnosis predictions more accurate.
 
 #### Selection of Features: Key variables were chosen based on their potential relevance to healthcare outcomes, including socio-economic status, geographic location, and prior health conditions.
 #### Optimization: The optimal number of clusters was determined through the evaluation of silhouette scores, ensuring meaningful segmentation of the patient population.
